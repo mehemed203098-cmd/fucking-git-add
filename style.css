@@ -1,8 +1,12 @@
-div {
-    background-color: red;
-    padding: 20px;
+
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
     margin: 10px;
-    border: 1px solid rgb(0, 0, 0);
-    border-radius: 20px;
-    color: white;
-    font-family: Arial, sans-serif;}
+}
+
+li {
+    margin-bottom: 5px;
+    color: yellow; /* test */
+}
